@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ナルリカ・マッドサイエンス",
+  "base_artist": "Risdom（リズダム）",
+  "createdAt": "2026-02-23T13:40:36.881837Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ナルリカ・マッドサイエンス",
+      "artist": "Risdom(リズダム)",
+      "has_synced": false,
+      "path": "select/pl_01_ナルリカ・マッドサイエンス_Risdom(リズダム).txt"
+    }
+  ]
+}
